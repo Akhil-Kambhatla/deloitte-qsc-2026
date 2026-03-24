@@ -1,0 +1,12 @@
+qiskit==1.4.2
+qiskit-aer==0.17.0
+qiskit-machine-learning==0.8.2
+pennylane==0.41.0
+scikit-learn==1.6.1
+xgboost==2.1.4
+pandas==2.2.3
+numpy==1.26.4
+matplotlib==3.10.1
+seaborn==0.13.2
+imbalanced-learn==0.13.0
+jupyter==1.1.1
