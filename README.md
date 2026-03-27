@@ -2,9 +2,6 @@
 
 ## Wildfire Risk and Insurance Premium Prediction
 
-**Team:** Akhil Kambhatla, [Teammate 2], [Teammate 3]
-**University:** University of Maryland, College Park
-**GitHub:** https://github.com/Akhil-Kambhatla/deloitte-qsc-2026
 
 ---
 
