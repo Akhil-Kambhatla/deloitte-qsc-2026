@@ -1,0 +1,6 @@
+Number of High Fire Risk Exposure
+prior_max_acres
+Avg PPC
+Earned Premium
+min_precip
+CAT Cov A Fire -  Number of Claims
