@@ -20,5 +20,8 @@ Thumbs.db
 .vscode/settings.json
 .idea/
 
+# Claude Code session files
+.claude/
+
 # Pickle files (can regenerate)
 data/*.pkl
