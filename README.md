@@ -1,6 +1,7 @@
 # Deloitte Quantum Sustainability Challenge 2026
 
 **Team Name:** Samanvay
+
 **University:** University of Maryland, College Park
 
 | Member | Role |
